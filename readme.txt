@@ -1,0 +1,1 @@
+This plugin makes counting the number of clicks on the link marked by special tags.
